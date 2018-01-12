@@ -1,0 +1,12 @@
+Batsman,Runs,Balls,Strike Rate,Status
+Alastair Cook/0/0/0.0/ -
+Joe Root/0/0/0.0/ -
+Ben Stokes/0/0/0.0/ -
+Moeen Ali/0/0/0.0/ -
+Stuart Broad/0/0/0.0/ -
+Eoin Morgan/0/0/0.0/ -
+James Anderson/0/0/0.0/ -
+Jonny Bairstow/0/0/0.0/ -
+Jos Buttler/0/0/0.0/ -
+Alex Hales/0/0/0.0/ -
+Adil Rashid/0/0/0.0/ -

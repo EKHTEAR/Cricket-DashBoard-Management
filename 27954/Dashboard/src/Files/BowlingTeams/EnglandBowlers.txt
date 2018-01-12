@@ -1,0 +1,8 @@
+Bowlers,Overs,Runs,Economy,Wicket
+Ben Stokes/0.0/0/0.0/0
+Moeen Ali/0.0/0/0.0/0
+Stuart Broad/0.0/0/0.0/0
+Eoin Morgan/0.0/0/0.0/0
+James Anderson/0.0/0/0.0/0
+Jonny Bairstow/0.0/0/0.0/0
+Adil Rashid/0.0/0/0.0/0

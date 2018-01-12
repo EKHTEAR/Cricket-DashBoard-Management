@@ -1,0 +1,12 @@
+Batsman,Runs,Balls,Strike Rate,Status
+Lasith Malinga/0/0/0.0/ -
+Angelo Mathews/0/0/0.0/ -
+Tillakaratne Dilshan/0/0/0.0/ -
+Dinesh Chandimal/0/0/0.0/ -
+Rangana Herath/0/0/0.0/ -
+Upul Tharanga/0/0/0.0/ -
+Thisara Perera(c)/0/0/0.0/ -
+Kusal Mendis/0/0/0.0/ -
+Kusal Perera/0/0/0.0/ -
+Suranga Lakmal/0/0/0.0/ -
+Nuwan Kulasekara/0/0/0.0/ -

@@ -1,0 +1,8 @@
+Bowlers,Overs,Runs,Economy,Wicket
+Pat Cummins/0.0/0/0.0/0
+Tim Paine/0.0/0/0.0/0
+Josh Hazlewood/0.0/0/0.0/0
+Nathan Lyon/0.0/0/0.0/0
+Mitchell Marsh/0.0/0/0.0/0
+Jackson Bird/0.0/0/0.0/0
+Steven Smith/0.0/0/0.0/0

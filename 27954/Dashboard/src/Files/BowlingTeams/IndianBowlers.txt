@@ -1,0 +1,8 @@
+Bowlers,Overs,Runs,Economy,Wicket
+Yuvraj Singh/0.0/0/0.0/0
+Ravichandran Ashwin/0.0/0/0.0/0
+Ravindra Jadeja/0.0/0/0.0/0
+Suresh Raina/0.0/0/0.0/0
+Ajinkya Rahane/0.0/0/0.0/0
+Cheteshwar Pujara/0.0/0/0.0/0
+Hardik Pandy/0.0/0/0.0/0

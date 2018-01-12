@@ -1,0 +1,12 @@
+Batsman,Runs,Balls,Strike Rate,Status
+Virat Kohli(c)/0/0/0.0/ -
+MS Dhoni/0/0/0.0/ -
+Yuvraj Singh/0/0/0.0/ -
+Rohit Sharma/0/0/0.0/ -
+Ravichandran Ashwin/0/0/0.0/ -
+Ravindra Jadeja/0/0/0.0/ -
+Suresh Raina/0/0/0.0/ -
+Ajinkya Rahane/0/0/0.0/ -
+Shikhar Dhawan/0/0/0.0/ -
+Cheteshwar Pujara/0/0/0.0/ -
+Hardik Pandy/0/0/0.0/ -

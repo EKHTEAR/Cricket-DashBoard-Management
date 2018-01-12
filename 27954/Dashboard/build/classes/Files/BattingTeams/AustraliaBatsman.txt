@@ -1,0 +1,12 @@
+Batsman,Runs,Balls,Strike Rate,Status
+Cameron Bancroft/0/0/0.0/ -
+David Warner/0/0/0.0/ -
+Usman Khawaja/0/0/0.0/ -
+Steven Smith (c)/0/0/0.0/ -
+Shaun Marsh/0/0/0.0/ -
+Mitchell Marsh/0/0/0.0/ -
+Tim Paine/0/0/0.0/ -
+Pat Cummins/0/0/0.0/ -
+Josh Hazlewood/0/0/0.0/ -
+Nathan Lyon/0/0/0.0/ -
+Jackson Bird/0/0/0.0/ -
